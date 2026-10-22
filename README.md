@@ -1,5 +1,7 @@
 # Yan X · 个人空间
 
+[English website](https://yanx-academic.github.io/en/) · [中文网站](https://yanx-academic.github.io/zh/)
+
 米白、电光蓝与杂志式排版的中英双语个人网站。内容用 Markdown 管理，无需修改页面代码。
 
 ## 最常用的编辑入口
