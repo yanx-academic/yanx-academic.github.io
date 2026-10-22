@@ -2,7 +2,7 @@
 
 [English website](https://yanx-academic.github.io/en/) · [中文网站](https://yanx-academic.github.io/zh/)
 
-米白、电光蓝与杂志式排版的中英双语个人网站。内容用 Markdown 管理，无需修改页面代码。
+白底、海军蓝与电光蓝的现代双语个人网站，桌面采用左侧导航，手机采用顶部导航。内容用 Markdown 管理，无需修改页面代码。
 
 ## 最常用的编辑入口
 
@@ -99,3 +99,5 @@ npm run preview
 ## 主图与示例内容
 
 海岸主图由 OpenAI 内置图像工具生成，是装饰摄影，不代表站点作者亲历。初始文章是明确标注的排版示例；发布个人内容前可替换或设为草稿。网站未填入未经确认的个人经历或私人邮箱。
+
+Inter 字体随网站托管，使用 SIL Open Font License（见 public/fonts/OFL.txt）；无需访问第三方字体服务。

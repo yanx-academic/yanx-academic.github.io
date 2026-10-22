@@ -1,0 +1,26 @@
+export const text = {
+  en: {
+    overview: 'Overview', journal: 'Writing', about: 'About',
+    siteLabel: 'Personal website', greeting: 'HELLO, I’M YAN X / 你好',
+    explore: 'Read my writing', selected: 'Latest writing', all: 'View all',
+    note: 'THOUGHTS, NOTES & OBSERVATIONS', sample: 'Sample note',
+    back: 'Back to writing', missing: 'This note isn’t available in English yet.',
+    missingTitle: 'Translation coming soon', home: 'Back home',
+    footer: 'A small corner of the internet.',
+    empty: 'A little quiet for now. New notes will appear here.',
+    beyond: 'Beyond the page', moment: 'Some moments are worth keeping.',
+    momentAlt: '有些时刻，值得被留下。', hello: 'A little about me',
+  },
+  zh: {
+    overview: '首页', journal: '随笔', about: '关于',
+    siteLabel: '个人空间', greeting: '你好，我是 YAN X / HELLO',
+    explore: '阅读我的随笔', selected: '近期随笔', all: '查看全部',
+    note: '思考、记录与日常观察', sample: '示例随笔',
+    back: '返回随笔列表', missing: '这篇随笔暂时还没有中文译文。',
+    missingTitle: '译文尚未发布', home: '返回首页',
+    footer: '互联网中的一小片天地。',
+    empty: '暂时留白，新的记录会出现在这里。',
+    beyond: '文字之外', moment: '有些时刻，值得被留下。',
+    momentAlt: 'Some moments are worth keeping.', hello: '关于我',
+  },
+};
